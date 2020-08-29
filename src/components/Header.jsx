@@ -49,7 +49,7 @@ function Header(props) {
   );
 }
 // Movie TMDB
-// APIKET= 1186ed90ebdb9e45f740404aa06da53f
+// APIKEY= 1186ed90ebdb9e45f740404aa06da53f
 // Example API Request
 // URL Testing: https://api.themoviedb.org/3/movie/550?api_key=1186ed90ebdb9e45f740404aa06da53f
 // API Read Access Token (v4 auth)
